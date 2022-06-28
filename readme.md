@@ -1,0 +1,5 @@
+REGION
+VPC
+SG
+RDS
+ECS
